@@ -17,6 +17,7 @@ class Solution1 {
 
 }
 
+  
 public int countCharFrequency(char character,String target){
 	int frequency = 0;
 	for(int idx=0;idx<target.length();idx++){
